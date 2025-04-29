@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+    --spacing-container: 700px; 
+    --color-stocks: #D9D9D9; 
+    --color-butFont: #7041D3; 
+    --color-warnBox: #CC3030; 
+    --font-deFont: "Poppins", "sans-serif"; 
+  }
